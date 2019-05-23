@@ -12,8 +12,8 @@ not all
 ##### how to get `secret`  
 have an issue?
 
-##### free?  
-maybe always, at least today
+##### price?  
+2.00 after per week
 
 ##### why 识别码
 used by secret
