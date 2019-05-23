@@ -10,7 +10,7 @@ mode
 not all
 
 ##### how to get `secret`  
-have an issue?
+issue an email
 
 ##### price?  
 2.00 after per week
